@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AI2Create", "AI2Create\AI2Create.pyproj", "{664DA6F8-224F-43CC-84DC-4B8D56268EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664DA6F8-224F-43CC-84DC-4B8D56268EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664DA6F8-224F-43CC-84DC-4B8D56268EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8387CFEB-81F8-4FFE-91A8-9E733A866D0F}
+	EndGlobalSection
+EndGlobal
